@@ -1,2 +1,2 @@
 # Calculadora_React
-uma calculadora simples feia utilizando React JS
+uma calculadora simples feita utilizando React JS
